@@ -49,7 +49,7 @@ A simple, customizable dropdown component built using JavaScript, allowing easy 
 
 ### Example Use Case:
 
-Here’s an example of how you can integrate the Dropdown component into your project:
+Here’s an example of how you can integrate the `dropdown` component into your project:
 
 1. Import the **dropdown** component in a javascript file.
 
